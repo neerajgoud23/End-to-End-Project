@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain_core
+langgraph
+langchain_groq
+streamlit
+faiss-cpu
